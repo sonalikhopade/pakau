@@ -1,0 +1,29 @@
+.line_001{
+height: 1px;
+background-color: #707070;
+
+}
+.line_002{
+height: 4px;
+width: 10%;
+background-color: #707070;
+}
+.border_001{
+    border-style: solid;
+border-width: 1px;
+border-color: black;
+}
+.border_002{
+    border-style: solid;
+border-width: 4px;
+// width: 10%;
+border-color: black;
+}
+.item1{
+width: 200px;
+height: auto;
+border-style: solid;
+border-width: 1px;
+border-color: black;
+font-size: 15px;
+}
